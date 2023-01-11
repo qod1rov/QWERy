@@ -27,7 +27,8 @@ body {
 .container {
     margin: auto;
     height: 100%;
-    width: 1461px;
+    max-width: 1501px;
+    padding: 0 20px;
 }
 
 .header {
